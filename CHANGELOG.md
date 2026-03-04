@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## [0.0.3] - 2026-03-04
+
 ### 变更
 - 移动 metadata/ 到主仓库 meta/asset/：元数据信息统一管理（原 metadata/ 目录）
 - 更新 README.md 和 index.md：更新元数据引用路径
