@@ -4,6 +4,6 @@
 
 ## 目录
 
-- [metadata/](metadata/) - 元数据信息（版本信息等）
+- 元数据信息已移动到主仓库 [meta/asset/](../../../../meta/asset/)（版本信息等）
 - [category/](category/) - 资产分类
 - [platform/](platform/) - 平台资产

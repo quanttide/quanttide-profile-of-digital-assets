@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### 变更
+- 移动 metadata/ 到主仓库 meta/asset/：元数据信息统一管理（原 metadata/ 目录）
+- 更新 README.md 和 index.md：更新元数据引用路径
+
 ### 新增
 - 新增 index.md：数字资产档案内容摘要
 - 新增 metadata/README.md：元数据目录说明
